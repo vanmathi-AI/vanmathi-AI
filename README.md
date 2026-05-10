@@ -5,6 +5,10 @@ AI & Data Science Enthusiast | NLP | ML | Deep Learning
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+Data+Science+Enthusiast;Machine+Learning+Engineer;NLP+%7C+Deep+Learning+%7C+RAG" />
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=vanmathi-AI&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
